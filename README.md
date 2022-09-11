@@ -1,5 +1,5 @@
 # proyecto1html
-Primer proyecto de Estructura de Datos.
+Primer 10% de Estructura de Datos.
 Consiste en realizar un currículum usando HTML Básico.
 Debe estar estructurado de la siguiente forma:
   Página principal = Información personal
